@@ -5,4 +5,4 @@ There are several factors that explain why the stock markets throughout the worl
 3) Several of the businesses are listed on more than one stock exchange. The same company listed on another stock market will be impacted when the price of one company changes.
 4) Comparable businesses in the same sector may simultaneously get their ratings raised or lowered in several areas. The consequences of these valuations will be felt by other comparable companies in the same industry in different nations.
    
-This project aims to develop an ensemble model for forecasting Instanbul Stock Exchange returns, consequently, making it possible for potential investors to place their money in Global Financial Markets where its value is more likely to increase.
+This project aims to develop an ensemble model using Logistic regression and Artificial Deep Neural Network for forecasting Instanbul Stock Exchange returns, consequently, making it possible for potential investors to place their money in Global Financial Markets where its value is more likely to increase.

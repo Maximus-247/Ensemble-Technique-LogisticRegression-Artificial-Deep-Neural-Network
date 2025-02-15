@@ -3,7 +3,7 @@
 ## Overview
 
 This project explores ensemble techniques combining Logistic Regression (LR) and Artificial Deep Neural Networks (ADNN) to improve classification accuracy. The goal is to leverage the strengths of both models—LR for interpretability and ADNN for deep feature extraction—to enhance predictive performance.
-![image alt](https://github.com/Maximus-247/Ensemble-Technique-LogisticRegression-Artificial-Deep-Neural-Network/blob/main/Screenshot%202025-02-15%20181923.png?raw=true)
+
 
 ## Problem Statement
 
